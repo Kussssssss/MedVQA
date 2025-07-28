@@ -17,7 +17,7 @@ The entire pipeline is structured into three main phases:
 The datasets used in this project, particularly the raw image data and preprocessed images, are hosted on Google Drive due to their size.
 
 To request access to the data, please send an email to:
-**22520968@gm.uit.edu.vn**
+**22520968@gm.uit.edu.vn** and **22520224@gm.uit.edu.vn**
 
 ## Setup
 
@@ -110,4 +110,4 @@ The `BM_PAoAT(best).ipynb` and `PAoAT_ML.ipynb` notebooks provide detailed evalu
 ## Contact
 
 For any questions regarding the dataset or the project, please reach out to:
-**22520968@gm.uit.edu.vn** 
+**22520968@gm.uit.edu.vn** or **22520224@gm.uit.edu.vn**
